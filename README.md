@@ -1,6 +1,4 @@
-Perfect! Here's an enhanced version of your `README.md` with embedded charts and outputs. I’ll suggest where to place images and name them so they integrate smoothly when you push them to GitHub.
 
----
 
 # 📈 Skills Demand Analysis for Top Data Roles
 
